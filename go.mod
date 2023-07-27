@@ -1,3 +1,3 @@
-module github.com/kenedyCO/ProjectRestApi
+module github.com/kenedyCO/todo-app
 
 go 1.19
