@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/kenedyCO/todo-app"
+	"github.com/kenedyCO/todo"
 )
 
 func main() {

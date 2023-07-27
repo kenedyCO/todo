@@ -1,3 +1,3 @@
-module github.com/kenedyCO/todo-app
+module github.com/kenedyCO/todo
 
 go 1.19
